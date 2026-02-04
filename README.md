@@ -18,8 +18,17 @@ If so, which locations show the largest increases during rain, and what characte
 * **Location-specific rain impact:** Some locations show substantially higher crash rates on rainy days; in selected areas, this increase is **as high as ~10×** compared to clear conditions.
 * **Year-to-year differences:** The set of high-increase locations is **not identical** between 2021 and 2022, suggesting variability across years.
 
+<img width="569" height="414" alt="image" src="https://github.com/user-attachments/assets/f6ba8126-c9ce-41dd-8a21-80228c97f651" />
+<img width="566" height="422" alt="image" src="https://github.com/user-attachments/assets/1e9e0c11-53b8-4383-9e5f-fc010e8bb0f7" />
+<img width="536" height="521" alt="image" src="https://github.com/user-attachments/assets/0a957018-308e-436b-aed4-5e2e360d2e4d" />
+
+
+
+
+
+
 ## Recommendations (from high-incident locations)
-These are targeted ideas tied to recurring patterns observed around specific intersections/road structures:
+Detailed inspection of accident hotspots using **Google Earth satellite imagery** highlighted specific structural flaws. The following recommendations address the observed friction points regarding traffic congestion, parking zones, and transit infrastructure:
 
 * **Adjust bus stop placement near intersections**
     * Bus stops immediately before intersections can narrow lanes and disrupt flow.
